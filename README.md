@@ -1,9 +1,11 @@
 # Writing-Down-the-Bones
 
-
+## 每日随笔
+- [我是怎样把自己的身体搞垮的](https://github.com/ChenXiangloong/Writing-Down-the-Bones/issues/4)
 
 ## 读书专栏
 - [我为什么读书](https://github.com/ChenXiangloong/Writing-Down-the-Bones/issues/1)
+- [想读的书太多怎么办？](https://github.com/ChenXiangloong/Writing-Down-the-Bones/issues/3)
 - [得到课程《怎样成为快速阅读的高手》学习笔记](https://github.com/ShannonChenCHN/eureka/issues/19#issuecomment-427539768)
 - [读《小狗钱钱》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.md)
 - [读《20 岁，光阴不再来》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A20%E5%B2%81%EF%BC%8C%E5%85%89%E9%98%B4%E4%B8%8D%E5%86%8D%E6%9D%A5%E3%80%8B.md)
