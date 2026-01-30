@@ -1,6 +1,7 @@
 # Writing-Down-the-Bones
 
 ## 每日随笔
+- [读书真的有那么大用吗？](https://github.com/ChenXiangloong/Writing-Down-the-Bones/issues/5)
 - [我是怎样把自己的身体搞垮的](https://github.com/ChenXiangloong/Writing-Down-the-Bones/issues/4)
 
 ## 读书专栏
