@@ -17,6 +17,7 @@
 - [读《人生的五种财富 The 5 Types of Wealth》（三）](https://mp.weixin.qq.com/s?__biz=MzI2NzQ4NDI4OQ==&mid=2247487446&idx=1&sn=9a8b8617b0f20dcf65080baa23207c98&chksm=eaff6238dd88eb2ebed3e20bb0922a3ae8921e7e117b3eee660b63f3c53e7ff3e6fad067ec06&scene=178&cur_album_id=4252197176178376718&search_click_id=#rd)
 
 ## 归档
-- [早期简书个人博客](https://www.jianshu.com/u/2062a31e1d4c)
+- [简书主页1](https://www.jianshu.com/u/2062a31e1d4c)
+- [简书主页2](https://www.jianshu.com/u/4ef5e287fc91)
 - [早期GitHub个人专栏](https://github.com/ShannonChenCHN/eureka)
 - [个人博客](https://github.com/ShannonChenCHN/shannonchenchn.github.io)
